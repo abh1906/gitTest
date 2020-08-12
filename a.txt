@@ -1,1 +1,1 @@
-This is a edited sample file for git. I am editing it.
+This is a test edited sample file for git. I am editing it.
