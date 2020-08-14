@@ -1,1 +1,1 @@
-This is a again edited sample file for git. I am editing it.
+This is a Nidhi edited sample file for git. I am editing it.
